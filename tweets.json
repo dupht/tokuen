@@ -1,0 +1,3296 @@
+[
+    {
+        "created_at": "Fri Aug 03 20:02:00 +0000 2018",
+        "id": 1025471869464584200,
+        "id_str": "1025471869464584192",
+        "text": "Best practices in approaching security with #nodejs from @mvsamuel: https://t.co/DIFOxluOoa",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nodejs",
+                    "indices": [
+                        44,
+                        51
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mvsamuel",
+                    "name": "Mike Samuel",
+                    "id": 80772555,
+                    "id_str": "80772555",
+                    "indices": [
+                        57,
+                        66
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DIFOxluOoa",
+                    "expanded_url": "https://medium.com/@nodejs/how-to-approach-security-with-node-js-f09a044f7212",
+                    "display_url": "medium.com/@nodejs/how-to…",
+                    "indices": [
+                        68,
+                        91
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 77,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Aug 03 17:00:47 +0000 2018",
+        "id": 1025426262830014500,
+        "id_str": "1025426262830014465",
+        "text": "Interested in participating in the Community Committee (a top-level committee focused on community-facing efforts)?… https://t.co/QujMTj7pKA",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/QujMTj7pKA",
+                    "expanded_url": "https://twitter.com/i/web/status/1025426262830014465",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 45,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Aug 03 13:02:00 +0000 2018",
+        "id": 1025366172672438300,
+        "id_str": "1025366172672438272",
+        "text": "Why is the new V8 so fast? @thlorenz explains: https://t.co/lgThsTtToD",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "thlorenz",
+                    "name": "Thorsten Lorenz ⚡⛈️",
+                    "id": 174726123,
+                    "id_str": "174726123",
+                    "indices": [
+                        27,
+                        36
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/lgThsTtToD",
+                    "expanded_url": "https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast",
+                    "display_url": "nodesource.com/blog/why-the-n…",
+                    "indices": [
+                        47,
+                        70
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 63,
+        "favorite_count": 138,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Aug 02 22:53:02 +0000 2018",
+        "id": 1025152522472878100,
+        "id_str": "1025152522472878080",
+        "text": "#jsinteractive has received over 300 applicants for our diversity scholarship. We would 💜 to offer as many scholars… https://t.co/CkhqrLVisq",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "jsinteractive",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CkhqrLVisq",
+                    "expanded_url": "https://twitter.com/i/web/status/1025152522472878080",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Aug 02 18:00:07 +0000 2018",
+        "id": 1025078805851988000,
+        "id_str": "1025078805851987970",
+        "text": "Student tickets are available for #JSInteractive ✨ The price is $100. Please share with your friends, especially th… https://t.co/HzMTAFjKCX",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JSInteractive",
+                    "indices": [
+                        34,
+                        48
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/HzMTAFjKCX",
+                    "expanded_url": "https://twitter.com/i/web/status/1025078805851987970",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 21,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Aug 02 13:37:48 +0000 2018",
+        "id": 1025012792720535600,
+        "id_str": "1025012792720535554",
+        "text": "ICYMI: Node v10.8.0 (Current) is now available 🎉Details here: https://t.co/3UBzKW7iru",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3UBzKW7iru",
+                    "expanded_url": "https://nodejs.org/en/blog/release/v10.8.0/",
+                    "display_url": "nodejs.org/en/blog/releas…",
+                    "indices": [
+                        62,
+                        85
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 65,
+        "favorite_count": 129,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Aug 02 13:34:02 +0000 2018",
+        "id": 1025011844375826400,
+        "id_str": "1025011844375826434",
+        "text": "✨@derrickharris of @architechtpub talks to the CTO of Condé Nast about pretty much everything, including #nodejs,… https://t.co/ToHOCTzP6D",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nodejs",
+                    "indices": [
+                        105,
+                        112
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "derrickharris",
+                    "name": "Derrick Harris",
+                    "id": 42480399,
+                    "id_str": "42480399",
+                    "indices": [
+                        1,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "architechtpub",
+                    "name": "ARCHITECHT",
+                    "id": 799464889219575800,
+                    "id_str": "799464889219575808",
+                    "indices": [
+                        19,
+                        33
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ToHOCTzP6D",
+                    "expanded_url": "https://twitter.com/i/web/status/1025011844375826434",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Aug 01 22:59:01 +0000 2018",
+        "id": 1024791638948884500,
+        "id_str": "1024791638948884480",
+        "text": "✨#JSInteractive will cover new features in #nodejs Core, the offline first approach to #webdevelopment, progressive… https://t.co/4TBFcYiwZa",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JSInteractive",
+                    "indices": [
+                        1,
+                        15
+                    ]
+                },
+                {
+                    "text": "nodejs",
+                    "indices": [
+                        43,
+                        50
+                    ]
+                },
+                {
+                    "text": "webdevelopment",
+                    "indices": [
+                        87,
+                        102
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4TBFcYiwZa",
+                    "expanded_url": "https://twitter.com/i/web/status/1024791638948884480",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Aug 01 19:58:00 +0000 2018",
+        "id": 1024746086861295600,
+        "id_str": "1024746086861295617",
+        "text": "We are excited to join #CallforCode 🎉 Want to learn more about this initiative? Check out this post from… https://t.co/QJ8O3dLsd0",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CallforCode",
+                    "indices": [
+                        23,
+                        35
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/QJ8O3dLsd0",
+                    "expanded_url": "https://twitter.com/i/web/status/1024746086861295617",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 27,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Aug 01 16:40:44 +0000 2018",
+        "id": 1024696443414700000,
+        "id_str": "1024696443414700032",
+        "text": "RT @speedynoise: Great session using @nodejs to build an Alexa skill! Check it out! 👇 /cc @alexadevs https://t.co/vnMn61ngdG",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "speedynoise",
+                    "name": "Diego Tiziani",
+                    "id": 80001027,
+                    "id_str": "80001027",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "nodejs",
+                    "name": "Node.js",
+                    "id": 91985735,
+                    "id_str": "91985735",
+                    "indices": [
+                        37,
+                        44
+                    ]
+                },
+                {
+                    "screen_name": "alexadevs",
+                    "name": "Alexa Developers",
+                    "id": 702932794947694600,
+                    "id_str": "702932794947694592",
+                    "indices": [
+                        90,
+                        100
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vnMn61ngdG",
+                    "expanded_url": "https://twitter.com/datreeio/status/1024687470477279233",
+                    "display_url": "twitter.com/datreeio/statu…",
+                    "indices": [
+                        101,
+                        124
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Aug 01 16:24:27 +0000 2018",
+            "id": 1024692343696511000,
+            "id_str": "1024692343696510978",
+            "text": "Great session using @nodejs to build an Alexa skill! Check it out! 👇 /cc @alexadevs https://t.co/vnMn61ngdG",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nodejs",
+                        "name": "Node.js",
+                        "id": 91985735,
+                        "id_str": "91985735",
+                        "indices": [
+                            20,
+                            27
+                        ]
+                    },
+                    {
+                        "screen_name": "alexadevs",
+                        "name": "Alexa Developers",
+                        "id": 702932794947694600,
+                        "id_str": "702932794947694592",
+                        "indices": [
+                            73,
+                            83
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/vnMn61ngdG",
+                        "expanded_url": "https://twitter.com/datreeio/status/1024687470477279233",
+                        "display_url": "twitter.com/datreeio/statu…",
+                        "indices": [
+                            84,
+                            107
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 80001027,
+                "id_str": "80001027",
+                "name": "Diego Tiziani",
+                "screen_name": "speedynoise",
+                "location": "",
+                "description": "Developer Community Manager @datreeio 🤖. Love traveling, technology, basketball, mugs and my four nephews. Operations ∩ cloud ☁️ Opinions here are my own.",
+                "url": "https://t.co/C0JJTxVsmD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/C0JJTxVsmD",
+                                "expanded_url": "http://www.datree.io/",
+                                "display_url": "datree.io",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1347,
+                "friends_count": 4996,
+                "listed_count": 264,
+                "created_at": "Mon Oct 05 11:38:05 +0000 2009",
+                "favourites_count": 13165,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6525,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "B2DFDA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/937057778278866944/Bld74jS3_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/937057778278866944/Bld74jS3_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/80001027/1498212812",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFF7CC",
+                "profile_text_color": "0C3E53",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1024687470477279200,
+            "quoted_status_id_str": "1024687470477279233",
+            "quoted_status": {
+                "created_at": "Wed Aug 01 16:05:05 +0000 2018",
+                "id": 1024687470477279200,
+                "id_str": "1024687470477279233",
+                "text": "How to develop an #Alexa skill using Node.js? Join our new webinar w/@muttonia, August 22, 8am PT, to learn how to… https://t.co/eYNbafD4a5",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Alexa",
+                            "indices": [
+                                18,
+                                24
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "muttonia",
+                            "name": "Andrea Muttoni",
+                            "id": 847791835741384700,
+                            "id_str": "847791835741384705",
+                            "indices": [
+                                69,
+                                78
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/eYNbafD4a5",
+                            "expanded_url": "https://twitter.com/i/web/status/1024687470477279233",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 888437681558102000,
+                    "id_str": "888437681558102017",
+                    "name": "datreeio",
+                    "screen_name": "datreeio",
+                    "location": "",
+                    "description": "Solving DevOps Scaling.\nReduce Complexity, Promote Technical Excellence, Boost Alignment.",
+                    "url": "https://t.co/nO5OQuHniF",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/nO5OQuHniF",
+                                    "expanded_url": "https://datree.io/",
+                                    "display_url": "datree.io",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3067,
+                    "friends_count": 3655,
+                    "listed_count": 30,
+                    "created_at": "Fri Jul 21 16:37:04 +0000 2017",
+                    "favourites_count": 208,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 3481,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/913367790073020416/AvAeOXKK_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913367790073020416/AvAeOXKK_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/888437681558102017/1525429886",
+                    "profile_link_color": "000000",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 28,
+                "favorite_count": 39,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 11,
+            "favorite_count": 34,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1024687470477279200,
+        "quoted_status_id_str": "1024687470477279233",
+        "retweet_count": 11,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Aug 01 16:12:21 +0000 2018",
+        "id": 1024689300783464400,
+        "id_str": "1024689300783464448",
+        "text": "RT @nearForm: A Day in the life of a #Nodejs core contributor. \n@jasnell pulls back the curtains on how things work within the @nodejs core…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Nodejs",
+                    "indices": [
+                        37,
+                        44
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nearForm",
+                    "name": "nearForm",
+                    "id": 413898659,
+                    "id_str": "413898659",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "jasnell",
+                    "name": "James M Snell",
+                    "id": 10399172,
+                    "id_str": "10399172",
+                    "indices": [
+                        64,
+                        72
+                    ]
+                },
+                {
+                    "screen_name": "nodejs",
+                    "name": "Node.js",
+                    "id": 91985735,
+                    "id_str": "91985735",
+                    "indices": [
+                        127,
+                        134
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Aug 01 15:30:17 +0000 2018",
+            "id": 1024678711327686700,
+            "id_str": "1024678711327686657",
+            "text": "A Day in the life of a #Nodejs core contributor. \n@jasnell pulls back the curtains on how things work within the… https://t.co/j91crCELfU",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Nodejs",
+                        "indices": [
+                            23,
+                            30
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "jasnell",
+                        "name": "James M Snell",
+                        "id": 10399172,
+                        "id_str": "10399172",
+                        "indices": [
+                            50,
+                            58
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/j91crCELfU",
+                        "expanded_url": "https://twitter.com/i/web/status/1024678711327686657",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 413898659,
+                "id_str": "413898659",
+                "name": "nearForm",
+                "screen_name": "nearForm",
+                "location": "Ireland",
+                "description": "nearForm is the next evolution of a software company. Our team of exceptional people build better software faster, for our clients and our communities.",
+                "url": "https://t.co/oftVVzBsnj",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/oftVVzBsnj",
+                                "expanded_url": "http://www.nearform.com",
+                                "display_url": "nearform.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5142,
+                "friends_count": 2066,
+                "listed_count": 237,
+                "created_at": "Wed Nov 16 11:40:41 +0000 2011",
+                "favourites_count": 3071,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 5887,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/975518059069878272/rn8c8mR2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/975518059069878272/rn8c8mR2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/413898659/1483302834",
+                "profile_link_color": "EC2131",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jul 30 22:16:36 +0000 2018",
+        "id": 1024056191876583400,
+        "id_str": "1024056191876583429",
+        "text": "RT @bitandbang: 📈 @nodejs has significantly surpassed 1 trillion downloads\n\nSources:\n📊 Official Node.js Metrics site: ~747,019,000 download…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "bitandbang",
+                    "name": "Tierney Cyren 📍 San Francisco",
+                    "id": 622960227,
+                    "id_str": "622960227",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "nodejs",
+                    "name": "Node.js",
+                    "id": 91985735,
+                    "id_str": "91985735",
+                    "indices": [
+                        18,
+                        25
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Jul 30 20:09:55 +0000 2018",
+            "id": 1024024311395377200,
+            "id_str": "1024024311395377153",
+            "text": "📈 @nodejs has significantly surpassed 1 trillion downloads\n\nSources:\n📊 Official Node.js Metrics site: ~747,019,000… https://t.co/17cTDdkoDF",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nodejs",
+                        "name": "Node.js",
+                        "id": 91985735,
+                        "id_str": "91985735",
+                        "indices": [
+                            2,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/17cTDdkoDF",
+                        "expanded_url": "https://twitter.com/i/web/status/1024024311395377153",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 622960227,
+                "id_str": "622960227",
+                "name": "Tierney Cyren 📍 San Francisco",
+                "screen_name": "bitandbang",
+                "location": "[object Object]",
+                "description": "⬡.js - Developer Avocado, @NodeSource. Chair, @nodejs Community Committee. Human clickbait. Unapologetic emoji usage. He/him. @pacabites, my ❤️. DMs open 📬",
+                "url": "https://t.co/Qr6YgoFxhr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Qr6YgoFxhr",
+                                "expanded_url": "https://bnb.im",
+                                "display_url": "bnb.im",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2604,
+                "friends_count": 535,
+                "listed_count": 135,
+                "created_at": "Sat Jun 30 14:57:31 +0000 2012",
+                "favourites_count": 33655,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 17694,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FA743E",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/885478269063245825/9_rGKUCk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/885478269063245825/9_rGKUCk_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/622960227/1531424506",
+                "profile_link_color": "5AC878",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 118,
+            "favorite_count": 348,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 118,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jul 30 20:25:02 +0000 2018",
+        "id": 1024028115620819000,
+        "id_str": "1024028115620818944",
+        "text": "✨@gauravseth discusses why @msdev contributes to #nodejs and supports the Node.js Foundation in this #nfspotlight: https://t.co/v9jyblGgD2",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nodejs",
+                    "indices": [
+                        49,
+                        56
+                    ]
+                },
+                {
+                    "text": "nfspotlight",
+                    "indices": [
+                        101,
+                        113
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "gauravseth",
+                    "name": "Gaurav Seth",
+                    "id": 18757503,
+                    "id_str": "18757503",
+                    "indices": [
+                        1,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "msdev",
+                    "name": "Microsoft Developer",
+                    "id": 1157784678,
+                    "id_str": "1157784678",
+                    "indices": [
+                        27,
+                        33
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/v9jyblGgD2",
+                    "expanded_url": "https://medium.com/@nodejs/contributing-back-to-node-js-is-the-most-important-area-of-work-for-microsoft-abc6055ba377",
+                    "display_url": "medium.com/@nodejs/contri…",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 29,
+        "favorite_count": 70,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jul 30 15:53:01 +0000 2018",
+        "id": 1023959656589406200,
+        "id_str": "1023959656589406208",
+        "text": "#jsinteractive has received over 300 applicants for our diversity scholarship. We would 💜 to offer as many scholars… https://t.co/KIRmPnROul",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "jsinteractive",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KIRmPnROul",
+                    "expanded_url": "https://twitter.com/i/web/status/1023959656589406208",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jul 30 14:42:43 +0000 2018",
+        "id": 1023941965359054800,
+        "id_str": "1023941965359054848",
+        "text": "RT @liran_tal: 🧐 are you using the Node.js Security WG vulnerabilities db ?\n🤔 are you using any other open/free vulnerabilities db for Node…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "liran_tal",
+                    "name": "Liran Tal",
+                    "id": 412133001,
+                    "id_str": "412133001",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Jul 30 07:51:57 +0000 2018",
+            "id": 1023838593373143000,
+            "id_str": "1023838593373143040",
+            "text": "🧐 are you using the Node.js Security WG vulnerabilities db ?\n🤔 are you using any other open/free vulnerabilities db… https://t.co/eOJ4rDVKYd",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/eOJ4rDVKYd",
+                        "expanded_url": "https://twitter.com/i/web/status/1023838593373143040",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 412133001,
+                "id_str": "412133001",
+                "name": "Liran Tal",
+                "screen_name": "liran_tal",
+                "location": "Israel",
+                "description": "💚@nodejs Security WG member | Core team @meanjsorg, #dockly | Author:📘 Essential Node.js Security ✨@OWASP NodeGoat core | ❤️#opensource #javascript evangelist",
+                "url": "https://t.co/2HYdRysmcw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/2HYdRysmcw",
+                                "expanded_url": "https://github.com/lirantal",
+                                "display_url": "github.com/lirantal",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1046,
+                "friends_count": 323,
+                "listed_count": 446,
+                "created_at": "Mon Nov 14 09:20:23 +0000 2011",
+                "favourites_count": 4692,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 6137,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/463224781920165888/_6BNrqv-_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/463224781920165888/_6BNrqv-_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/412133001/1453239499",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 21,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 27 22:20:00 +0000 2018",
+        "id": 1022969882890174500,
+        "id_str": "1022969882890174464",
+        "text": "Tutorial: Building a Facebook Messenger Chat bot with #nodejs from Waleed Ahmad: https://t.co/yEvYGXXfGm",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nodejs",
+                    "indices": [
+                        54,
+                        61
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/yEvYGXXfGm",
+                    "expanded_url": "https://quantizd.com/building-facebook-messenger-bot-with-nodejs/",
+                    "display_url": "quantizd.com/building-faceb…",
+                    "indices": [
+                        81,
+                        104
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 96,
+        "favorite_count": 292,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 27 18:39:20 +0000 2018",
+        "id": 1022914351156666400,
+        "id_str": "1022914351156666370",
+        "text": "@vjrngn Were you looking to be a mentor or mentee?",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "vjrngn",
+                    "name": "Vijay Rangan",
+                    "id": 934230714,
+                    "id_str": "934230714",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1022882644265189400,
+        "in_reply_to_status_id_str": "1022882644265189377",
+        "in_reply_to_user_id": 934230714,
+        "in_reply_to_user_id_str": "934230714",
+        "in_reply_to_screen_name": "vjrngn",
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 27 18:38:34 +0000 2018",
+        "id": 1022914157644009500,
+        "id_str": "1022914157644009473",
+        "text": "🎉🎉🎉 https://t.co/JoYcevf6Jo",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JoYcevf6Jo",
+                    "expanded_url": "https://twitter.com/trott/status/1022892277885165568",
+                    "display_url": "twitter.com/trott/status/1…",
+                    "indices": [
+                        4,
+                        27
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1022892277885165600,
+        "quoted_status_id_str": "1022892277885165568",
+        "quoted_status": {
+            "created_at": "Fri Jul 27 17:11:38 +0000 2018",
+            "id": 1022892277885165600,
+            "id_str": "1022892277885165568",
+            "text": "Hey, everyone working on @nodejs core tests and continuous integration! Congratulations on a full week of node-dail… https://t.co/a08f0KFZh0",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nodejs",
+                        "name": "Node.js",
+                        "id": 91985735,
+                        "id_str": "91985735",
+                        "indices": [
+                            25,
+                            32
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/a08f0KFZh0",
+                        "expanded_url": "https://twitter.com/i/web/status/1022892277885165568",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 8984012,
+                "id_str": "8984012",
+                "name": "Rich Trott",
+                "screen_name": "trott",
+                "location": "San Francisco, CA",
+                "description": "I create software, rock operas, and pizzas. I am a member of the Node.js Technical Steering Committee and work at UCSF. he/him",
+                "url": "https://t.co/pdKy6dhGSL",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pdKy6dhGSL",
+                                "expanded_url": "https://trott.github.io/",
+                                "display_url": "trott.github.io",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1271,
+                "friends_count": 69,
+                "listed_count": 67,
+                "created_at": "Wed Sep 19 22:36:43 +0000 2007",
+                "favourites_count": 2511,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4237,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460204257438748672/NE56U27B_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460204257438748672/NE56U27B_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/8984012/1398556384",
+                "profile_link_color": "0000FF",
+                "profile_sidebar_border_color": "87BC44",
+                "profile_sidebar_fill_color": "E0FF92",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 14,
+            "favorite_count": 56,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 5,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Fri Jul 27 17:21:01 +0000 2018",
+        "id": 1022894639639081000,
+        "id_str": "1022894639639080965",
+        "text": "In our latest #enterpriseconversation we talked with @ViriCiti about how they use #nodejs for real-time electric ve… https://t.co/LUHTFnaYvZ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "enterpriseconversation",
+                    "indices": [
+                        14,
+                        37
+                    ]
+                },
+                {
+                    "text": "nodejs",
+                    "indices": [
+                        82,
+                        89
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ViriCiti",
+                    "name": "ViriCiti",
+                    "id": 874255956,
+                    "id_str": "874255956",
+                    "indices": [
+                        53,
+                        62
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/LUHTFnaYvZ",
+                    "expanded_url": "https://twitter.com/i/web/status/1022894639639080965",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 27,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 27 16:28:32 +0000 2018",
+        "id": 1022881431297634300,
+        "id_str": "1022881431297634308",
+        "text": "RT @NodeSource: ⚡️ The @nodejs Mentorship Initiative meeting is now live on YouTube: https://t.co/GEcJydSu2h",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NodeSource",
+                    "name": "NodeSource",
+                    "id": 807405552,
+                    "id_str": "807405552",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "nodejs",
+                    "name": "Node.js",
+                    "id": 91985735,
+                    "id_str": "91985735",
+                    "indices": [
+                        23,
+                        30
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/GEcJydSu2h",
+                    "expanded_url": "https://youtu.be/p78O1rPrLwc",
+                    "display_url": "youtu.be/p78O1rPrLwc",
+                    "indices": [
+                        85,
+                        108
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91985735,
+            "id_str": "91985735",
+            "name": "Node.js",
+            "screen_name": "nodejs",
+            "location": "Earth",
+            "description": "The Node.js JavaScript Runtime. Need help with Node.js? Please ask here: https://t.co/EvweB7iLKR",
+            "url": "https://t.co/X32n3a0B1h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X32n3a0B1h",
+                            "expanded_url": "http://nodejs.org",
+                            "display_url": "nodejs.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EvweB7iLKR",
+                            "expanded_url": "https://github.com/nodejs/help",
+                            "display_url": "github.com/nodejs/help",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 529921,
+            "friends_count": 727,
+            "listed_count": 6840,
+            "created_at": "Mon Nov 23 10:57:50 +0000 2009",
+            "favourites_count": 1748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 5693,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/702185727262482432/n1JRsFeB_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91985735/1525704882",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Jul 27 16:10:23 +0000 2018",
+            "id": 1022876863352332300,
+            "id_str": "1022876863352332288",
+            "text": "⚡️ The @nodejs Mentorship Initiative meeting is now live on YouTube: https://t.co/GEcJydSu2h",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "nodejs",
+                        "name": "Node.js",
+                        "id": 91985735,
+                        "id_str": "91985735",
+                        "indices": [
+                            7,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/GEcJydSu2h",
+                        "expanded_url": "https://youtu.be/p78O1rPrLwc",
+                        "display_url": "youtu.be/p78O1rPrLwc",
+                        "indices": [
+                            69,
+                            92
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 807405552,
+                "id_str": "807405552",
+                "name": "NodeSource",
+                "screen_name": "NodeSource",
+                "location": "Worldwide",
+                "description": "NodeSource is the safest and most secure #nodejs platform. Secure. Reliable. Connected. Node.js.",
+                "url": "https://t.co/kgBSw8kEG5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/kgBSw8kEG5",
+                                "expanded_url": "https://nodesource.com",
+                                "display_url": "nodesource.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 12979,
+                "friends_count": 2124,
+                "listed_count": 491,
+                "created_at": "Thu Sep 06 19:00:26 +0000 2012",
+                "favourites_count": 4731,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 5183,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/831194359034843136/lWqDN9SS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/831194359034843136/lWqDN9SS_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/807405552/1423960245",
+                "profile_link_color": "323A3A",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 20,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]
